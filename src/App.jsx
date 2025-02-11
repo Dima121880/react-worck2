@@ -27,7 +27,7 @@ function App() {
           marginTop: "50px",
         }}
       >
-        <a href="https://www.myauto.ge/ka/s/iyideba-manqanebi?vehicleType=0&bargainType=0&mansNModels=&currId=3&mileageType=1&page=1&query=subaru&layoutId=1">
+        <a href="https://www.myauto.ge/ka/pr/111270939/iyideba-manqanebi-kupe-subaru-brz-2016-benzini-tbilisi?offerType=superVip&source=search">
           <img
             className="subaru"
             style={{
